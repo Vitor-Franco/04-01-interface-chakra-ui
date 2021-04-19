@@ -1,0 +1,13 @@
+.swiper-pagination-bullet {
+  background: #a0a0a0;
+  opacity: 0.8;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background: var(--chakra-colors-highlightColor);
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: var(--chakra-colors-highlightColor);
+}
